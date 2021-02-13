@@ -7,7 +7,6 @@ namespace Compute_sum_of_two_values
         static float firstNum;
         static float secondNum;
         static float sumNum;
-        static float sumNumX3;
         static string sumOutput;
 
         static void Main()
@@ -26,12 +25,11 @@ namespace Compute_sum_of_two_values
             if (firstNum == secondNum)
             {
                 sumNum = (firstNum + secondNum);
-                sumNumX3 = (firstNum + secondNum) * 3;
                 sumOutput = ("The sum of "
                     + firstNum + " & "
                     + secondNum + " is "
                     + sumNum + ", x3 = "
-                    + sumNumX3
+                    + sumNum * 3
                     );
 
                 Console.WriteLine(sumOutput);
