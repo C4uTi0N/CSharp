@@ -1,0 +1,13 @@
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\bin\Debug\netcoreapp3.1\Guesser Game.exe
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\bin\Debug\netcoreapp3.1\Guesser Game.deps.json
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\bin\Debug\netcoreapp3.1\Guesser Game.runtimeconfig.json
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\bin\Debug\netcoreapp3.1\Guesser Game.runtimeconfig.dev.json
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\bin\Debug\netcoreapp3.1\Guesser Game.dll
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\bin\Debug\netcoreapp3.1\Guesser Game.pdb
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\obj\Debug\netcoreapp3.1\Guesser Game.csprojAssemblyReference.cache
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\obj\Debug\netcoreapp3.1\Guesser Game.AssemblyInfoInputs.cache
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\obj\Debug\netcoreapp3.1\Guesser Game.AssemblyInfo.cs
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\obj\Debug\netcoreapp3.1\Guesser Game.csproj.CoreCompileInputs.cache
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\obj\Debug\netcoreapp3.1\Guesser Game.dll
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\obj\Debug\netcoreapp3.1\Guesser Game.pdb
+D:\OneDrive\School\SDU\3D programmering\C#\Guesser Game\Guesser Game\obj\Debug\netcoreapp3.1\Guesser Game.genruntimeconfig.cache
