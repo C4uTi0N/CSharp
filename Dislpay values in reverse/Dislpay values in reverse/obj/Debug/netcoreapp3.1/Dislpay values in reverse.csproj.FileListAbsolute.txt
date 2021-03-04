@@ -1,0 +1,13 @@
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\bin\Debug\netcoreapp3.1\Dislpay values in reverse.exe
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\bin\Debug\netcoreapp3.1\Dislpay values in reverse.deps.json
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\bin\Debug\netcoreapp3.1\Dislpay values in reverse.runtimeconfig.json
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\bin\Debug\netcoreapp3.1\Dislpay values in reverse.runtimeconfig.dev.json
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\bin\Debug\netcoreapp3.1\Dislpay values in reverse.dll
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\bin\Debug\netcoreapp3.1\Dislpay values in reverse.pdb
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\obj\Debug\netcoreapp3.1\Dislpay values in reverse.csprojAssemblyReference.cache
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\obj\Debug\netcoreapp3.1\Dislpay values in reverse.AssemblyInfoInputs.cache
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\obj\Debug\netcoreapp3.1\Dislpay values in reverse.AssemblyInfo.cs
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\obj\Debug\netcoreapp3.1\Dislpay values in reverse.csproj.CoreCompileInputs.cache
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\obj\Debug\netcoreapp3.1\Dislpay values in reverse.dll
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\obj\Debug\netcoreapp3.1\Dislpay values in reverse.pdb
+D:\OneDrive\School\SDU\3D programmering\C#\Dislpay values in reverse\Dislpay values in reverse\obj\Debug\netcoreapp3.1\Dislpay values in reverse.genruntimeconfig.cache
